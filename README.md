@@ -47,5 +47,5 @@
 - int maior() : A princípio, espera que o método retorne um valor do Tipo Inteiro, mas de acordo com a lógica da função vê-se que ela retorna um booleano, então seria necessário trocar o retorno da função por boolean.
 - void menor() : Menor, não assinatura de nenhum retorno mas pela lógica da função ela está retornando o menor número, contradizendo a assinatura da função.
 
-### Questão 07
+### Questão 14
 Resposta: Proteção dos atributos da classe, pois através dos getters and setters e a proteção dos atributos, você encapsula a classe, assim todas as mudanças e requisições dos valores podem ser controlados pelo seu critério, impedindo que consigam interagir diretamente com o atributo.
