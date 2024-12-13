@@ -17,7 +17,7 @@
 - Inserir os getters e setters para acessar os métodos e poder alterar seus valores.
 - Contrutor de inicialização da classe.
 
-### Questão 07
+### Questão 08
  - Comando:
  1 class Teste2
 2 {
